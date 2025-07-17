@@ -37,7 +37,7 @@ export const showData = data =>{
         Name -- ${name}
         weather -- ${weather} ${icon}
         temperatura -- ${temp}
-        humidity -- ${humidity}
+        humidity -- ${humidity}%
         wind speed -- ${windSpeed}
     `)
 }
